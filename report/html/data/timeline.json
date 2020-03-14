@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-NHE81P6",
+    "children" : [ {
+      "name" : "17440-MainThread",
+      "children" : [ {
+        "name" : "test02",
+        "uid" : "2c3858fb5c4af428",
+        "parentUid" : "eb5e8bd167deebc72417e05563b4da2f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584172659377,
+          "stop" : 1584172659377,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test01",
+        "uid" : "b87d2c56e54eaaa2",
+        "parentUid" : "eb5e8bd167deebc72417e05563b4da2f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584172659374,
+          "stop" : 1584172659374,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eb5e8bd167deebc72417e05563b4da2f"
+    } ],
+    "uid" : "8cbee6f86eb672f15c470e944a8d0a16"
+  } ]
+}
