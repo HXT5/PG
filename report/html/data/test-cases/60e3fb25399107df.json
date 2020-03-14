@@ -1,5 +1,5 @@
 {
-  "uid" : "5b1206fc673d41d4",
+  "uid" : "60e3fb25399107df",
   "name" : "test01",
   "fullName" : "scripts.test.Test01#test01",
   "historyId" : "5ecf58ca8905eb25046244e5c6c49b03",
@@ -48,6 +48,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "5b1206fc673d41d4.json",
+  "source" : "60e3fb25399107df.json",
   "parameterValues" : [ ]
 }
